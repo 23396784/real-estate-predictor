@@ -1,0 +1,151 @@
+Suburb,Address,Property_Type,Sold_Price,Sold_Date,Bedrooms,Bathrooms,Distance_to_CBD,Agency
+Richmond, 89 Elizabeth Street,House,0.0351593591323836,2011-09-24,2,1,5.2,JellisCraig
+Richmond,34 Canterbury Street,House,0.0242880640763676,2016-07-25,2,1,5.2,Stuat Evans
+Richmond,95 Hoddle Street,House,0.0545420827566464,2012-07-25,2,1,5.2,JellisCraig
+Richmond,41 Fraser Street,House,0.0693641655281415,1930-09-24,2,1,5.2,JellisCraig
+Richmond,607/30 Burnley Strret,Apartment,0.0195153003932386,2015-07-25,1,1,5.2, Belle
+Richmond,"1 Survey Street, Richmond",Apartment,0.0831521495016253,2018-07-25,3,1,5.2,BigginScott 
+Richmond,18 Burkingham Street,Townhouse,0.0561064886305609,2011-07-25,3,3,5.2,BigginScott 
+Richmond,2/50 Tanner Street ,Townhouse,0.070424779679948,2003-07-25,3,2,5.2,Belle
+Richmond,7/6 Lord Street,Apartment,0.0336744993198546,2011-07-25,3,2,5.2,RayWhite
+Richmond,2/7 Adam Street,Apartment,0.0257198931813063,2017-07-25,2,1,5.2,ThomasWong
+Richmond,515/253 Bridge Road,Apartment,0.0232274499245611,2018-07-25,1,1,5.2,BigginScott 
+Richmond,410/39 Appleton Street,Apartment,0.0327729772908191,2001-07-25,2,2,5.2,BigginScott 
+Richmond,1/101 Hunter Street,Apartment,0.0269395994558837,2001-07-25,2,1,5.2,BigginScott 
+Richmond,14/10 Bosito Street,Apartment,0.0184546862414321,2027-06-25,1,1,5.2,BARRYPLANT
+Richmond,907/1 Dyer Streets,Apartment,0.0453677703435207,2026-06-25,2,2,5.2,MRE
+Richmond,5/2 Elizabeth Street,Apartment,0.0296441655429901,2026-07-25,2,1,5.2,JellisCraig
+Richmond,9/17 Stilman Street,Apartment,0.0293259812974482,2017-06-25,2,1,5.2,JellisCraig
+Richmond,1/50 Palmer Street ,Apartment,0.0515988784853835,2013-06-25,2,2,5.2,Marshall White
+Richmond,302/136 Burnley Street,Apartment,0.0229622963866095,2008-05-25,2,1,5.2,A/REAL
+Richmond,611/132 Burnley Street,Apartment,0.0404624298914159,2006-05-25,3,2,5.2,BigginScott 
+Richmond,1/77 Frasser Street,Apartment,0.0237577570004643,2004-06-25,2,1,5.2,BigginScott 
+Richmond,312/18 Tanner Street,Apartment,0.0248183711522708,2004-07-25,1,1,5.2,BigginScott 
+Richmond,210/338 Burnley Street,Apartment,0.035053297717203,1920-06-25,2,2,5.2,WhiteFox
+Richmond,210/339 Burnley Street,Apartment,0.035053297717203,2020-06-25,2,2,5.2,WhiteFox
+Richmond,2/28 Davison Street,Apartment,0.0,2004-06-25,1,1,5.2,JellisCraig
+Richmond,605/37 Bosito Street,Apartment,0.0258259545964869,2029-05-25,2,1,5.2,GOTHAM
+Richmond,12/372 Church Street,Apartment,0.0200456074691418,2028-06-25,1,1,5.2,Belle
+Richmond,228/253 Bridge Road,Apartment,0.0216365286968515,2016-04-25,1,1,5.2,BigginScott 
+Richmond,39/73 River Street,Apartment,0.0338335914426256,2016-05-25,2,2,5.2,HODGES
+Richmond,117/33 Jude Street,Apartment,0.028795674221545,2004-05-25,2,1,5.2,JellisCraig
+Richmond,217/45 York Street,Apartment,0.0211062216209482,2005-05-25,1,1,5.2,MRE
+Richmond,505/11 David Street,Apartment,0.0314472096010611,2024-05-25,2,2,5.2,BigginScott 
+Richmond,131/8 Garfield Street,Apartment,0.0195153003932386,2007-07-25,1,1,5.2,RayWhite
+Richmond,5/6 Adam street,Apartment,0.030121441911303,1930-05-25,2,1,5.2,william
+Richmond,2/7 Adam Street,Apartment,0.0257198931813063,2017-07-25,2,1,5.2,ThomasWong
+Richmond,607/30 Burnley Street,Apartment,0.0195153003932386,2015-07-25,1,1,5.2,Belle
+Richmond,7/45 Cameron Street,Apartment,0.0165986114757708,2001-07-25,1,1,5.2,JellisCraig
+Richmond,702/163 Cremorne Street,Apartment,0.0384472630029836,2011-04-25,2,2,52.0,BigginScott 
+Richmond,9/9 Goodwood Street,Apartment,0.0333032843667224,2026-04-25,1,1,5.2,LITTLE
+Richmond,1/50 Palmer Street,Apartment,0.0514397863626126,2011-04-25,2,2,5.2,Marshall White
+Richmond,5a Little Kent Street,Apartment,0.025348678228174,2016-04-25,2,1,5.2,BIgginScott 
+Richmond,707/33 Judd Street,Apartment,0.0327729772908191,2006-06-25,2,2,5.2,LEWIS
+Richmond,310/8 Garfield Street,Apartment,0.0338335914426256,2013-05-25,2,2,5.2,RayWhite
+Richmond,217/71 Abinger Street,Apartment,0.0314472096010611,2017-04-25,2,2,5.2,Belle
+Richmond,601/205 Burnley Street,Apartment,0.0250835246902224,2023-04-25,2,1,5.2,BigginScott 
+Richmond,111/36 Regent Street,Apartment,0.0250304939826321,1930-04-25,2,1,5.2,JellisCraig
+Richmond,111/36 Regent Street,Apartment,0.0250304939826321,1930-04-25,2,1,5.2,BigginScott 
+Richmond,703/163 Cremorne Street,Apartment,0.0309169025251579,2015-04-25,2,2,5.2,BigginScott 
+Richmond,310/8 Garfield Street,Apartment,0.0338335914426256,2013-05-25,2,2,5.2,RayWhite
+Richmond,114/132 Burnley Street,Apartment,0.0195153003932386,2006-05-25,2,1,5.2,BigginScott 
+South Yarra ,101/26-28 Wilson Street,Apartment,0.0134167690203515,2021-07-25,1,1,3.5,RayWhite
+South Yarra ,320/471 Malvern Road,Apartment,0.0342048063957578,2024-07-25,2,1,3.5,Belle
+South Yarra ,54 Powell Street,House,0.2608050199292051,2012-07-25,2,2,3.5,JellisCraig
+South Yarra ,9 Osborne Street,House,0.1033038183859478,1931-05-25,3,2,3.5,Belle
+South Yarra ,54 Powell Street,House,0.2608050199292051,2017-06-25,3,2,3.5,JellisCraig
+South Yarra ,54 Hope Street,House,0.1149705740558187,2028-05-25,2,1,3.5,buxton
+South Yarra ,410/38 Cunningham Street,Apartment,0.0208940987905869,2026-07-25,1,1,3.5,Ascend
+South Yarra ,101/26-28 Wilson Street,Apartment,0.0134167690203515,2021-07-25,1,1,3.5,RayWhite
+South Yarra ,5/19 Adams Street,Apartment,0.0334623764894933,2017-07-25,1,1,3.5,W B Simpson & Son
+South Yarra ,15/386 Toorak Road,Apartment,0.0343638985185288,2016-07-25,3,1,3.5,LITTLE
+South Yarra ,7/35 Fitzgerald Street,Apartment,0.0197804539311902,2015-07-25,1,1,3.5,McGrath
+South Yarra ,1816/3 Yarra Street,Apartment,0.0154319359087837,2012-07-25,1,1,3.5,Woodards
+South Yarra ,1206/35 Malcolm Street,Apartment,0.0295911348353998,2011-07-25,2,1,3.5,buxton
+South Yarra ,11/274A Domain Road,Apartment,0.0187198397793837,2010-07-25,1,1,3.5,Belle
+South Yarra ,320/8 Daly Street,Apartment,0.0264092923799805,2009-07-25,2,1,3.5,A/REAL
+South Yarra ,14/7 Rockley Road,Apartment,0.0386063551257546,2005-07-25,3,1,3.5,JellisCraig
+South Yarra ,707/2 Claremont Street,Apartment,0.0281195326997684,2007-07-25,2,2,3.5,Belle
+South Yarra ,1309/3 Yarra Street,Apartment,0.0177546809012399,2008-07-25,1,1,3.5,Woodards
+South Yarra ,6/7 Davidson Street,Apartment,0.0273373297628111,2009-07-25,1,1,3.5,Belle
+South Yarra ,07/20 Garden Street,Apartment,0.015803150861916,2013-07-25,1,1,3.5,besser+CO
+South Yarra ,7/35 Fitzgerald Street,Apartment,0.0197804539311902,2015-07-25,1,1,3.5,McGrath
+South Yarra ,"15/247 Williams Road,",Apartment,0.0438504557379464,2004-07-25,2,2,3.5,Woodards
+South Yarra ,1708/229 Toorak Road,Apartment,0.0190512817018232,2004-07-25,1,1,3.5,LITTLE
+South Yarra ,1407/2 Claremont Street,Apartment,0.0140796528652305,2004-07-25,1,1,3.5,Woodards
+South Yarra ,2304/3 Yarra Street,Apartment,0.021238798389924,2003-07-25,1,1,3.5,MRE
+South Yarra ,8/34 Macfarlan Street,Townhouse,0.0659171695347706,2002-07-25,3,2,3.5,Belle
+South Yarra ,5/35 Fitzgerald Street,Apartment,0.0168637650137224,2002-07-25,1,1,3.5,Belle
+South Yarra ,1308/50 Claremont,Apartment,0.033568437904674,1930-07-25,2,2,3.5,buxton
+South Yarra ,7/77 River Street,Apartment,0.0176592256275773,2027-06-25,1,1,3.5,Belle
+South Yarra ,705/18 Yarra Street,Apartment,0.0433791188088836,2027-06-25,3,2,3.5,McGrath
+South Yarra ,68 Osborne Street,Townhouse,0.1017128971582381,2014-03-25,3,3,3.5,JellisCraig
+South Yarra ,410/38 Cunningham Street,Apartment,0.0208940987905869,2022-07-25,1,1,3.5,Ascend
+South Yarra ,37/12 Copelen Street,Townhouse,0.0733414685974157,2012-03-25,2,1,3.5,Kay&Burton
+South Yarra ,27 Hyland Street,Townhouse,0.0453677703435207,2014-09-25,2,1,3.5,NelsonAlwxander
+South Yarra ,504/32 Bray Street,Apartment,0.011030387178787,2028-06-25,1,1,3.5,Belle
+South Yarra ,10/49 Tivoli Road,Apartment,0.0314472096010611,2026-06-25,2,1,3.5,Belle
+South Yarra ,203/36 Darling Street,Apartment,0.0226971428486579,2026-06-25,1,1,3.5,Marshall White
+South Yarra ,702/649 Chapel Street,Apartment,0.0364851268221417,2024-06-25,2,2,3.5,MPG
+South Yarra ,603/8 Garden Street,Apartment,0.0338335914426256,2019-06-25,2,2,3.5,INNER
+South Yarra ,1/97 Caroline Street,Apartment,0.0418412282887643,2016-06-25,2,1,3.5,Belle
+South Yarra ,304/1 Clara Street,Apartment,0.0211062216209482,2016-06-25,1,1,3.5,MRE
+South Yarra ,401/700 Chapel Street,Apartment,0.0484170360299642,2014-06-25,2,2,3.5,Woodards
+South Yarra ,5/29 Park Street,Apartment,0.0390306007864772,2014-06-25,2,2,3.5,JellisCraig
+South Yarra ,1/10 Affleck Street,Apartment,0.0147425367101096,2013-06-25,1,1,3.5,Belle
+South Yarra ,3/24 St Leonards Court,Apartment,0.038341201587803,2011-06-25,1,1,3.5,WhiteFox
+South Yarra ,32/100 Commercial Road,Apartment,0.0330381308287707,2010-06-25,3,2,3.5,Belle
+South Yarra ,16/30 Mona Place,Apartment,0.0295911348353998,2004-06-25,2,1,3.5,Woodards
+South Yarra ,8/27 Kensington Road,Apartment,0.0343108678109385,1931-05-25,2,1,3.5,THE AGENCY
+South Yarra ,1208/1 Almeida Crescent,Apartment,0.0645914018450125,1930-05-25,2,2,3.5,AMITY
+South Yarra ,1/97 Caroline Street,Apartment,0.0418412282887643,2016-06-25,2,1,3.5,Belle
+Hawthorn,"17 Barton Street, Hawthorn,",House,0.1428116955407379,2019-05-25,3,1,7.5,Woodards
+Hawthorn,5 Pine Street,House,0.2088349264906892,2029-03-25,4,2,7.5,Kay & Burton
+Hawthorn,17/152 Power Street,House,0.0783793858184963,2029-03-25,3,2,7.5,Belle
+Hawthorn,6 Little Church Street,House,0.0948189051714962,2029-03-26,3,2,7.5,JellisCraig
+Hawthorn,2 Henry Street,House,0.1945166354413021,2001-04-25,4,2,7.5,AZ
+Hawthorn,3 Elm Street,House,0.1255767155738832,2001-04-26,3,2,7.5,JellisCraig
+Hawthorn,2/28 Belgrave Street,House,0.103834125461851,2029-03-25,3,2,7.5,Marshall White
+Hawthorn,5 Pine Street,House,0.2088349264906892,2029-03-26,4,2,7.5,Kay & Burton
+Hawthorn,34 Kinkora Road,House,0.2104258477183988,2026-03-25,4,2,7.5,JellisCraig
+Hawthorn,3 Allen Street,House,0.0811369826131931,2015-03-25,3,2,7.5,Woodards
+Hawthorn,2 Scotsburn Street,House,0.4229729237404106,2028-02-25,3,3,7.5,Kay & Burton
+Hawthorn,5 Rosney Street,House,0.0736066221353673,2027-02-25,2,2,7.5,Mashall White
+Hawthorn,36 Evansdale Road,House,0.0937582910196898,2026-02-25,3,1,7.5,Nelson  Alwxander
+Hawthorn,51 Mason Street,House,0.1017128971582381,2019-02-25,3,1,7.5,Marshall White
+Hawthorn,11 Berkeley Street,House,1.0,2028-02-25,7,8,7.5,JellisCraig
+Hawthorn,48 Connell Street,House,0.113379652828109,2001-03-25,4,1,7.5,Marshall White
+Hawthorn,78 Elgin Street,House,0.0677732443004319,2004-03-25,3,1,7.5,Marshall White
+Hawthorn,369 Auburn Road,House,0.0903112950263188,2007-03-25,3,2,7.5,Marshall White
+Hawthorn,5 Wattle Grove,House,0.1282282509533993,2013-03-25,3,2,7.5,JellisCraig
+Hawthorn,3 Allen Street,House,0.0811369826131931,2015-03-25,3,2,7.5,Woodards
+Hawthorn,1/18 Riversdale Road,Apartment,0.0510685714094803,2022-07-25,2,1,7.5,THE AGENCY
+Hawthorn,5/563 Glenferrie Road,Apartment,0.0203107610070934,2014-07-25,1,1,7.5,LITTLE
+Hawthorn,403/80 Lynch Street,Apartment,0.0211062216209482,2012-07-25,1,1,7.5,HEAVYSIDE
+Hawthorn,1/74-76 Auburn Road,Apartment,0.030121441911303,2010-07-25,2,1,7.5,Woodards
+Hawthorn,3/124B Barkers Road,Apartment,0.0272047529938353,2010-07-26,2,1,7.5,THE AGENCY
+Hawthorn,1/2 Brook Street,Apartment,0.0250835246902224,2010-07-27,1,1,7.5,THE AGENCY
+Hawthorn,15/17 Park Street,Apartment,0.0094394659510773,2009-07-25,1,1,7.5,RayWhite
+Hawthorn,115/81 Riversdale Road,Apartment,0.0163334579378192,2004-07-25,1,1,7.5,Precinct
+Hawthorn,102/577-579 Glenferrie Road,Apartment,0.0295911348353998,2001-07-25,2,1,7.5,besser+CO
+Hawthorn,110/6 Lisson Grove,Apartment,0.0251365553978127,1930-06-25,1,1,7.5,THE AGENCY
+Hawthorn,216/81-83 Riversdale Road,Apartment,0.021397890512695,2027-06-25,1,1,7.5,Belle
+Hawthorn,317/311 Burwood Road,Apartment,0.0183221094724563,2025-06-25,1,1,7.5,BigginScott 
+Hawthorn,109/2 Golding Street,Apartment,0.0200456074691418,2013-06-25,1,1,7.5,MRE
+Hawthorn,123/311 Burwood Road,Apartment,0.0155379973239644,2011-06-25,1,1,7.5,RayanPagan
+Hawthorn,5/11 Hill Street,Apartment,0.0261441388420288,2018-06-25,2,1,7.5,RayWhite
+Hawthorn,7/121 Riversdale Road,Apartment,0.0386063551257546,2021-06-25,2,2,7.5,Belle
+Hawthorn,2/51 Denham Street,Apartment,0.0282653671456417,2007-06-25,2,1,7.5,THE AGENCY
+Hawthorn,5/16 Lawes Street,Apartment,0.0338335914426256,2021-06-25,2,1,7.5,THE AGENCY
+Hawthorn,4/63 Wattle Road,Apartment,0.044757917206232,2021-05-25,2,1,7.5,LANGWELL HARPER
+Hawthorn,231/2 Golding Street,Apartment,0.0153789052011934,2029-05-25,1,1,7.5,Marshall White
+Hawthorn,2/12 Elgin Street,Townhouse,0.0790628455779204,2025-03-25,3,2,7.5,JellisCraig
+Hawthorn,9/21 Wattle Road,Townhouse,0.1202736448148509,2005-03-25,3,2,7.5,Kay & Burton
+Hawthorn,9/70 Auburn Road,Townhouse,0.0405154605990062,2004-03-25,2,2,7.5,Marshall White
+Hawthorn,3/92 Church Street,Townhouse,0.099061361778722,2017-12-24,3,2,7.5,JellisCraig
+Hawthorn,2/45-49 Linda Crescent,Townhouse,0.0908416021022221,2004-12-24,2,2,7.5,Woodards
+Hawthorn,7/10-12 William Street,Townhouse,0.0489473431058674,2016-11-24,2,1,7.5,Marshall White
+Hawthorn,3/1 Kinkora Road,Townhouse,0.7937636312119442,2025-09-24,3,2,7.5,Marshall White
+Hawthorn,2/5 Burgess Street,Townhouse,0.0628944192021222,2021-09-24,3,2,7.5,JellisCraig
+Hawthorn,8/127-129 Power Street,Townhouse,0.0950840587094478,2029-09-24,4,2,7.5,RTEdgar
+Hawthorn,2/16 Liddiard Street,Townhouse,0.0763642189300641,2026-10-24,3,2,7.5,Marshall White
